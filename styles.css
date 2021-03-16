@@ -51,7 +51,7 @@ p.imgtitle {
   line-height: 130%;
 }
 
-table {
+#myTable {
   border: 3px solid #0a82f7;
   color: #0a82f7;
 }
@@ -63,4 +63,10 @@ table {
 span {
   font-style: bold;
   font-family: "Courier New", Courier, monospace;
+}
+tr,
+td {
+  border: 1pt;
+  margin: 15pt;
+  text-align: center;
 }
